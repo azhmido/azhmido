@@ -44,5 +44,3 @@
 </p>
 
 ---
-
-### ⭐ Jika kamu suka profil saya, jangan lupa kasih star di repo saya!
