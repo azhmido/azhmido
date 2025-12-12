@@ -19,11 +19,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,react,nodejs,mysql,git,github,vscode" />
 </p>
 
+---
 
 ## 📊 Statistik GitHub
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=azhmido&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=azhmido&theme=tokyonight" />
 </p>
+
+---
 
 ## 🌐 Terhubung dengan Saya
 <p align="left">
