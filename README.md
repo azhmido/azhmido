@@ -40,7 +40,8 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <!-- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> -->
+   <img src="https://i.gifer.com/7VE.gif" width="300" />
 </p>
 
 ---
