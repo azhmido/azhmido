@@ -1,7 +1,7 @@
 <h1 align="center">Halo, Saya Ahmad Zaki Hossam Mido 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&lines=Software+Developer;Pengembang+Web;Selalu+Belajar+Hal+Baru" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&lines=Mahasiswa+Informatika;Beginner+Programmer;Selalu+Belajar+Hal+Baru" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ## 🛠️ Bahasa & Tools yang Saya Pelajari
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,react,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,react,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
