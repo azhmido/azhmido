@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Tools I'm Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,php,react,nodejs,mysql,git,github,vscode" />
 </p>
