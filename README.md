@@ -31,7 +31,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.instagram.com/ahmadzaki.hm/" target="_blank">
+  <a href="https://www.instagram.com/azhmido/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
